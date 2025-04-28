@@ -170,10 +170,16 @@ const workExperiences = {
       company: "Afour Technologies",
       companylogo: require("./assets/images/afour.webp"),
       date: "Sept 2019 – Dec 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "As a Senior Software Engineer, I built scalable web and mobile applications, improved user engagement through better design and analytics, and ensured system reliability through strong monitoring and deployment practices. I collaborated closely with teams to deliver features quickly and optimized application performance across different services and platforms.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Leveraged 3ds.js to create interactive data visualizations (graphs, tables) and plot corresponding data points on maps for enhanced user comprehension.",
+        "Increased customer engagement by analyzing user behavior with Google Analytics.",
+        "Improved customer experience with faster and more reliable in-app payments.",
+        "Streamlined communication with users via Twilio integration for notifications and verifications.",
+        "Enhanced user engagement with QR codes for information, promotions, and direct navigation.",
+        "Utilized CloudFront for efficient static asset delivery and implemented code splitting to load components on demand. This resulted in a significant reduction in initial load time and improved user experience.",
+        "Resolved critical app defects to prevent outages using Crashlytics.",
+        "Managed app deployment and collaborated with teams to deliver new features."
       ]
     }
   ]
