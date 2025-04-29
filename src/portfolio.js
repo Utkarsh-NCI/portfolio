@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/14enykFoOW7eBPkp0cRof8QWt5B_q82xu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1T9Do5BolIcHGJzSf3nNAd5tP8mJ4KmQ-/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -335,7 +335,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+343 089 458 5366",
+  number: "+353 89 458 5366",
   email_address: "utkarsh9216@gmail.com"
 };
 
