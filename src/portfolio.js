@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1T9Do5BolIcHGJzSf3nNAd5tP8mJ4KmQ-/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1u3wXLK6jP9U5oLeuO_jQUWL-_thWgdX3/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -170,16 +170,16 @@ const workExperiences = {
       company: "Afour Technologies",
       companylogo: require("./assets/images/afour.webp"),
       date: "Sept 2019 – Dec 2023",
-      desc: "As a Senior Software Engineer, I built scalable web and mobile applications, improved user engagement through better design and analytics, and ensured system reliability through strong monitoring and deployment practices. I collaborated closely with teams to deliver features quickly and optimized application performance across different services and platforms.",
+      desc: "Over four years at Afour Technologies, I grew from a trainee to a senior software development engineer, contributing across a wide range of web and mobile projects. I’ve worked on building microfrontend applications using ReactJS and AngularJS, developed scalable backend services with Python Django and Node.js, and delivered production-ready mobile apps using React Native and Firebase. I’ve led efforts in integrating interactive features like Google Maps visualizations, real-time tracking, and secure payment systems, while following Agile and test-driven development practices. My time at Afour has shaped me into a well-rounded full-stack developer who values clean code, collaboration, and building products that make a real impact.",
       descBullets: [
-        "Leveraged 3ds.js to create interactive data visualizations (graphs, tables) and plot corresponding data points on maps for enhanced user comprehension.",
-        "Increased customer engagement by analyzing user behavior with Google Analytics.",
-        "Improved customer experience with faster and more reliable in-app payments.",
-        "Streamlined communication with users via Twilio integration for notifications and verifications.",
-        "Enhanced user engagement with QR codes for information, promotions, and direct navigation.",
-        "Utilized CloudFront for efficient static asset delivery and implemented code splitting to load components on demand. This resulted in a significant reduction in initial load time and improved user experience.",
-        "Resolved critical app defects to prevent outages using Crashlytics.",
-        "Managed app deployment and collaborated with teams to deliver new features."
+        "Led the development and maintenance of multiple web and mobile applications across roles, contributing to projects using ReactJS, AngularJS, React Native, and Ionic.",
+        "Built and optimized backend services and REST APIs using Python Django and Node.js (Firebase), enabling smooth integration and scalable solutions.",
+        "Developed a sports event management mobile app for iOS and Android using React Native, featuring secure authentication, real-time crash tracking (Firebase Crashlytics), and in-app payment integration with Stripe.",
+        "Integrated third-party services such as Twilio (SMS), NodeMailer (email alerts), and QR code-based event registration to boost user engagement and communication.",
+        "mplemented interactive data visualizations using 3ds.js and mapped key data points on Google Maps, improving insights and decision-making for users.",
+        "Used React-Redux for efficient state management and managed dynamic content with Firebase Remote Config and Dynamic Links.",
+        "Followed test-driven development (TDD) practices and participated in Agile workflows, writing unit/component tests and contributing to stable, production-ready releases.",
+        "Maintained and upgraded legacy systems and ensured secure user sessions, transaction flows, and compliance with store guidelines."
       ]
     }
   ]
